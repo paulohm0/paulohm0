@@ -47,19 +47,14 @@
         <strong> todolist-app </strong></a><br><span>To-do list desenvolvido na Alura</span>
     </td>
     <td align="center" width="200px">
-      <a href="https://github.com/paulohm0/whatsapp-ui-clone">
-        <img height="300px" src="https://camo.githubusercontent.com/a4b025c4dce946880bc00afb092b1e18ccbb893bd28ab45a845a857f0cd0ad9b/68747470733a2f2f692e696d6775722e636f6d2f5067623248774d2e6a706567" /><br>
-        <img height= "10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="vertical-align: middle; margin-bottom: 3px;" />
-        <strong> whatsapp-ui-clone </strong></a><br><span>Clone da interface do WhatsApp</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200px">
       <a href="https://github.com/paulohm0/corretorasbrasil">
         <img height="300px" src="https://camo.githubusercontent.com/c84ebe31e1e23371aebcfa7182c1b9254c34523264fb9f26b1e8405af2c43031/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786247747465444a795a486b345a5738354f4751774d54687259334e324e576333656a6b3562446c6965574a7764485636596a51344d695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f37374e444d76434936617641737834654e332f67697068792e676966" /><br>
         <img height= "10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="vertical-align: middle; margin-bottom: 3px;" />
         <strong> corretorasbrasil </strong></a><br><span>App com lista de corretoras do Brasil</span>
     </td>
+    
+  </tr>
+  <tr>
     <td align="center" width="200px">
       <a href="https://github.com/paulohm0/burguer_app">
         <img height="300px" src="https://camo.githubusercontent.com/92caf7529591da43e8805756fd938c577d7d762ba808e23f74c048c67910b571/68747470733a2f2f696d6775722e636f6d2f6b636e705774432e706e67" /><br>

@@ -14,7 +14,7 @@
       <tr>
         <td><a href="https://github.com/paulohm0/crypto-wallet-app">crypto-wallet</a></td>
         <td align="center">Flutter</td>
-        <td>Carteira digital de criptomoedas</td>
+        <td>App de uma Carteira digital de criptomoedas</td>
         <td align="center">In progress</td>
       </tr>
       <tr>
@@ -84,6 +84,12 @@
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><a href="https://github.com/paulohm0/todolist-api">investments-api</a></td>
+        <td align="center">Spring Boot</td>
+        <td>Build & Run - Agregador de investimentos</td>
+        <td align="center">In progress</td>
+      </tr>
       <tr>
         <td><a href="https://github.com/paulohm0/todolist-api">todo-list-api</a></td>
         <td align="center">Spring Boot</td>

@@ -93,7 +93,7 @@
       <tr>
         <td><a href="https://github.com/paulohm0/todolist-api">todo-list-api</a></td>
         <td align="center">Spring Boot</td>
-        <td>RocketSeat - evento com Spring Boot</td>
+        <td>API de uma task list</td>
         <td align="center">Completed</td>
       </tr>
     </tbody>

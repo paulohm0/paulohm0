@@ -87,7 +87,7 @@
       <tr>
         <td><a href="https://github.com/paulohm0/investments-aggregator">investments-api</a></td>
         <td align="center">Spring Boot</td>
-        <td>Build & Run - Agregador de investimentos</td>
+        <td>API de um agregador de investimentos</td>
         <td align="center">In progress</td>
       </tr>
       <tr>

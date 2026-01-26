@@ -85,10 +85,16 @@
     </thead>
     <tbody>
       <tr>
+        <td><a href="https://github.com/paulohm0/sentinela-api">sentinela-api</a></td>
+        <td align="center">Spring Boot</td>
+        <td>API com informações dos políticos brasileiros</td>
+        <td align="center">In progress</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/paulohm0/investments-aggregator">investments-api</a></td>
         <td align="center">Spring Boot</td>
         <td>API de um agregador de investimentos</td>
-        <td align="center">In progress</td>
+        <td align="center">Completed</td>
       </tr>
       <tr>
         <td><a href="https://github.com/paulohm0/todolist-api">todo-list-api</a></td>

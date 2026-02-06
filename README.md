@@ -6,7 +6,7 @@
       <tr>
         <th width="200">Projeto</th>
         <th width="120">Tech</th>
-        <th width="350">Descrição</th>
+        <th width="400">Descrição</th>
         <th width="110">Status</th>
       </tr>
     </thead>
@@ -79,7 +79,7 @@
       <tr>
         <th width="200">Projeto</th>
         <th width="120">Tech</th>
-        <th width="350">Descrição</th>
+        <th width="400">Descrição</th>
         <th width="110">Status</th>
       </tr>
     </thead>
@@ -87,7 +87,7 @@
       <tr>
         <td><a href="https://github.com/paulohm0/sentinela-api">sentinela-api</a></td>
         <td align="center">Spring Boot</td>
-        <td>API com informações dos políticos brasileiros</td>
+        <td>Backend para gestão de condomínios e aluguéis</td>
         <td align="center">In progress</td>
       </tr>
       <tr>

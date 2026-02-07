@@ -85,7 +85,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/paulohm0/sentinela-api">sentinela-api</a></td>
+        <td><a href="https://github.com/paulohm0/sentinel_api">sentinel_api</a></td>
         <td align="center">Spring Boot</td>
         <td>Backend para gestão de condomínios e aluguéis</td>
         <td align="center">In progress</td>

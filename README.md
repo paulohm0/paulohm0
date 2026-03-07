@@ -85,12 +85,6 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/paulohm0/orderflow">orderflow</a></td>
-        <td align="center">Spring Boot</td>
-        <td>Sistema de pedidos com atualizações automáticas</td>
-        <td align="center">In progress</td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/paulohm0/sentinel_api">sentinel_api</a></td>
         <td align="center">Spring Boot</td>
         <td>Backend para gestão de condomínios e aluguéis</td>
@@ -101,6 +95,12 @@
         <td align="center">Spring Boot</td>
         <td>API para um task manager</td>
         <td align="center">In progress</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/paulohm0/orderflow">orderflow</a></td>
+        <td align="center">Spring Boot</td>
+        <td>Sistema de pedidos com atualizações automáticas</td>
+        <td align="center">Completed</td>
       </tr>
       <tr>
         <td><a href="https://github.com/paulohm0/investments-aggregator">investments-api</a></td>

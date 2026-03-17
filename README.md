@@ -91,12 +91,6 @@
         <td align="center">In progress</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/paulohm0/todolist-api">todo-list-api</a></td>
-        <td align="center">Spring Boot</td>
-        <td>API para um task manager</td>
-        <td align="center">In progress</td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/paulohm0/orderflow">orderflow</a></td>
         <td align="center">Spring Boot</td>
         <td>Sistema de pedidos com atualizações automáticas</td>
@@ -106,6 +100,12 @@
         <td><a href="https://github.com/paulohm0/investments-aggregator">investments-api</a></td>
         <td align="center">Spring Boot</td>
         <td>API de um agregador de investimentos</td>
+        <td align="center">Completed</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/paulohm0/todolist-api">todo-list</a></td>
+        <td align="center">Spring Boot</td>
+        <td>API para um task manager</td>
         <td align="center">Completed</td>
       </tr>
     </tbody>

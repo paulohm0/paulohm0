@@ -85,7 +85,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/paulohm0/sentinel_api">sentinel_api</a></td>
+        <td><a href="https://github.com/paulohm0/sentinel_api">sentinel API</a></td>
         <td align="center">Spring Boot</td>
         <td>Backend para gestão de condomínios e aluguéis</td>
         <td align="center">In progress</td>
@@ -97,7 +97,7 @@
         <td align="center">Completed</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/paulohm0/investments-aggregator">investments-api</a></td>
+        <td><a href="https://github.com/paulohm0/investments-aggregator">investments API</a></td>
         <td align="center">Spring Boot</td>
         <td>API de um agregador de investimentos</td>
         <td align="center">Completed</td>

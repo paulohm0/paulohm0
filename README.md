@@ -59,12 +59,6 @@
         <td>App com lista de corretoras do Brasil</td>
         <td align="center">Completed</td>
       </tr>
-      <tr>
-        <td><a href="https://github.com/paulohm0/burguer_app">burguer_app</a></td>
-        <td align="center">React Native</td>
-        <td>App de delivery</td>
-        <td align="center">Completed</td>
-      </tr>
     </tbody>
   </table>
 </div>

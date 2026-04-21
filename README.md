@@ -107,6 +107,17 @@
 
 <p>
   <img src="https://img.shields.io/badge/spring%20boot-555555?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <a href="https://github.com/paulohm0/latency-tracker_api">
+    <img src="https://img.shields.io/badge/latency--tracker_api-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repositório latency-tracker_api" />
+  </a>
+</p>
+<p>
+  <a>completed ✅</a>
+  <a>API que lê arquivos de log (.xlsx, .csv, .txt), classifica endpoints por nível de criticidade de latência e expõe os gargalos via REST com filtros e paginação. Leitura agendada com processamento assíncrono.</a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/spring%20boot-555555?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
   <a href="https://github.com/paulohm0/orderflow">
     <img src="https://img.shields.io/badge/orderflow-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repositório orderflow" />
   </a>
